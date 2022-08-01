@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "Pelota 1",
+    "descripcion": "Gran Balon",
+    "id": 1,
+    "precio": 8000,
+    "imagen": "img/pelota1.JPG"
+  },
+  {
+    "nombre": "Pelota 2",
+    "descripcion": "Gran Balon",
+    "id": 2,
+    "precio": 9000,
+    "imagen": "img/pelota2.JPG"
+  },
+  {
+    "nombre": "Pelota 3",
+    "descripcion": "Gran Balon",
+    "id": 3,
+    "precio": 10000,
+    "imagen": "img/pelota3.JPG"
+  },
+  {
+    "nombre": "Pelota 4",
+    "descripcion": "Gran Balon",
+    "id": 4,
+    "precio": 140000,
+    "imagen": "img/pelota4.JPG"
+  },
+  {
+    "nombre": "Pelota 5",
+    "descripcion": "Gran Balon",
+    "id": 5,
+    "precio": 220000,
+    "imagen": "img/pelota5.JPG"
+  },
+  {
+    "nombre": "Pelota 6",
+    "descripcion": "Gran Balon",
+    "id": 6,
+    "precio": 300000,
+    "imagen": "img/pelota6.JPG"
+  }
+]
